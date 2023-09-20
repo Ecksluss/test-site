@@ -1,0 +1,44 @@
+.roundimg{
+    border-radius:50%;
+    overflow: hidden;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;}
+
+
+html{
+    font-size: 10px;
+    font-family: "Tangerine", serif;
+    background-color: #1C1C1C;}
+h1{font-size: 100px;
+    text-align: center;
+    text-shadow: 12px 12px 9px black;
+    }
+    p{
+        font-size: 55px;
+        text-align: center;
+    }
+    h2{
+        font-size: 60px;
+        text-align: center;
+    }
+    a{
+        font-size: 100px;
+        
+    }
+    .patreon-link{
+        text-align: center;
+    }
+    body {
+        width: 600px;
+        margin: 0 auto;
+        background-color: hsl(302, 100%, 78%);
+        padding: 0 20px 20px 20px;
+        border: 5px solid black;}
+        .shadow {
+            text-shadow: 12px 12px 9px black;
+        }
+        
